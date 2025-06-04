@@ -1,4 +1,4 @@
-# Bank-Management-System-OOP-C-
+# Bank-Management-System-OOP-C++
 
 
 • Binary File Persistence: Account data is stored/retrieved via binary file operations (fstream), enabling persistent storage and efficient record management.
